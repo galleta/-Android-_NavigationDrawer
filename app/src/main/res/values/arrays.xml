@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_derecha">
+        <item >Menú 01 derecha</item>
+        <item >Menú 02 derecha</item>
+        <item >Menú 03 derecha</item>
+        <item >Menú 04 derecha</item>
+        <item >Menú 05 derecha</item>
+    </string-array>
+
+    <string-array name="menu_izquierda">
+        <item >Menú 01 izquierda</item>
+        <item >Menú 02 izquierda</item>
+        <item >Menú 03 izquierda</item>
+        <item >Menú 04 izquierda</item>
+        <item >Menú 05 izquierda</item>
+    </string-array>
+</resources>
